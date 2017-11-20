@@ -1,0 +1,9 @@
+verbosity=7
+console=both
+disp_mode=1920x1080p60
+rootdev=UUID=8eee29dd-83e4-40dc-b9d3-47d38ac0219a
+rootfstype=ext4
+#overlays=w1-gpio
+overlays=sun7i-a20-w1-gpio sun7i-a20-spi-spidev
+#overlays=spi-spidev
+#overlays=sun7i-a20-spi-spidev

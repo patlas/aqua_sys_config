@@ -1,0 +1,1 @@
+Linux bananapipro 4.12.0-sunxi #3 SMP Fri Jun 23 19:49:36 CEST 2017 armv7l armv7l armv7l GNU/Linux
